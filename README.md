@@ -1,2 +1,2 @@
 # It-solution-website
- I developed it- solution website using bootstrape
+ I developed it- solution website using bootstrap
